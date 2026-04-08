@@ -1,0 +1,18 @@
+{
+  "length_mae_cm": 10.054563522338867,
+  "length_rmse_cm": 12.497676786060204,
+  "length_mape_percent": 20.301393508911133,
+  "length_r2": 0.6710494756698608,
+  "width_mae_cm": 13.604369163513184,
+  "width_rmse_cm": 16.037051216440947,
+  "width_mape_percent": 44.751609802246094,
+  "width_r2": 0.08010298013687134,
+  "height_mae_cm": 5.556742191314697,
+  "height_rmse_cm": 6.904028073356547,
+  "height_mape_percent": 19.93944549560547,
+  "height_r2": 0.7944345474243164,
+  "mean_mae_cm": 9.738558292388916,
+  "volume_mae_cm3": 29592.65625,
+  "volume_mape_percent": 54.55341339111328,
+  "loss": 0.2319471174478531
+}
