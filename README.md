@@ -22,7 +22,6 @@ Cubify addresses two major warehouse inefficiencies:
 
 ```
 .
-├── .venv/                                  # Local Python virtual environment
 ├── cubify_data_package/                    # Synthetic dataset (images + annotations)
 ├── outputs/
 │   └── cubify_cnn_dimension_regressor/
